@@ -16,14 +16,14 @@
 
 body {
     font-family: 'Jakarta';
-    background-color: #cee6e2;
+    background-color: #d1c0bb;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
 
 footer {
-    background-color: #3d726b;
+    background-color: #6B4D45;
     color: #ffffff;
     box-sizing: border-box;
     font-size: 7px;
@@ -38,7 +38,7 @@ footer {
 }
 
 .navbar {
-    background-color: #3d726b;
+    background-color: #6B4D45;
 }
 
 .navbar .nav-link:hover {
@@ -103,18 +103,18 @@ h2:hover {
 }
 
 .formulario {
-    border: 2px solid #3d726b;
+    border: 2px solid #6B4D45;
     margin-top: 20px;
     border-radius: 10px;
 }
 
 .enviar {
-    background-color: #3d726b;
+    background-color: #6B4D45;
     color: #fff;
 }
 
 .enviar:hover {
-    background-color:#254641;
+    background-color:#44322c;
     color: #fff;
 }
 
